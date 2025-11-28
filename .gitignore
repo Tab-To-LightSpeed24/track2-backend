@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+__pycache__/
+.history/
+
+# Database
+*.db
+*.sqlite3
+
+# IDE / Editor specific
+.vscode/
+.idea/
