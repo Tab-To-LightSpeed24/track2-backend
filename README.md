@@ -100,10 +100,40 @@ A brief overview of the available endpoints. For detailed information and to try
 
 ### Interactive API Documentation (Swagger UI)
 You can test all endpoints directly from your browser.
-*(Suggestion: Add a screenshot of your Swagger UI here)*
+
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/e815f82f-540a-4e15-af00-00b8cbb65c8c" />
 
 ### Example: Creating an Employee
-*(Suggestion: Add a screenshot of the create employee endpoint in action)*
+
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/31b83780-2652-4413-8266-132fbb1054d8" />
+
+### Get a Specific Employee
+
+<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/63a6a439-83d6-4734-927a-775dcd5d75ac" />
+
+### Update an Employee
+
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/0d9112c0-a965-4366-80e8-ffdb7acd39b6" />
+
+## Delete an Employee
+
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/f18101a4-2f72-4e56-801c-723deabadb8f" />
+
+## Create a Task
+
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/a8e61c7e-90f5-4b46-9537-ac8eaa15d0c3" />
+
+## List all Tasks
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/675a6ff9-a42a-4911-a2d4-aea19a7de469" />
+
+## Update a Task info
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/7096aeac-a611-47a6-9fe6-77fb24b3a433" />
+
+## Bonus Endpoints: Get Tasks for an Employee
+
+<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/db8d3b9a-0885-450a-a093-c223de9b0900" />
 
 ## Assumptions & Bonus Features
 
